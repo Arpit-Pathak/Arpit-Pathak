@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @code-today
+- 👋 Hi, I’m Arpit @code-today
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and React Js
 - 💞️ I’m looking to Internship and Jobs on Reactsjs
